@@ -7,4 +7,6 @@ You can enable and disable the /rename command as well as the anvil gui hack in 
 
 A lot of the code is kinda messy but it works ¯\\\_(ツ)\_/¯
 
+**Requires ProtocolLib**
+
 <sub><sub><sub>made at 3am</sub></sub></sub>
