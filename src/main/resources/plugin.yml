@@ -1,0 +1,7 @@
+name: NoAnvilLimitSpigot
+version: ${project.version}
+main: net.ddns.foxsquad.noanvillimitspigot.NoAnvilLimitSpigot
+api-version: 1.16
+authors: [ Rooot ]
+description: Removes the Name length in Anvils server-side
+depend: [ ProtocolLib ]
